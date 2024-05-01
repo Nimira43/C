@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("This is Nimira Tech learning C!\n");
+    printf("Making sure things are still working\n");
     return 0;
 }
